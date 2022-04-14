@@ -1,0 +1,18 @@
+.detail-wrap {
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.blog-wrap {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 10px #b7b7b7;
+}
+.blog-wrap img {
+  border-radius: 10px;
+}

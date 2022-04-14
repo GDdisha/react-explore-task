@@ -1,0 +1,10 @@
+.header-main {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-main svg {
+  max-width: 100px;
+}
